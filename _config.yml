@@ -1,0 +1,28 @@
+name: A Simple Idea
+favicon: null
+layout_spectrum: 0.2733502285555005
+typography_spectrum: 0.9503184349741787
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.22574365232139826
+  lightness: 0.1850520132575184
+  saturation: 0.35981704434379935
+  rhythmicContrast: 0.7180408739950508
+purpose: []
